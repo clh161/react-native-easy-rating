@@ -1,6 +1,6 @@
 {
   "name": "react-native-easy-rating",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Easy rating view for react-native",
   "main": "index.js",
   "scripts": {
