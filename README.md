@@ -5,6 +5,7 @@
   <img src="./assets/demo_image_1.png"/>
 </p>
 
+####Tested with react-native 0.27.1
 
 ## Installation
 
