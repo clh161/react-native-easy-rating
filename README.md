@@ -26,6 +26,7 @@ npm install react-native-easy-rating --save
 |**`iconHeight`**|`number`|Set height of icon|`No`|`36`|
 |**`iconSelected`**|`image`|Set image of selected icon|`No`|<img src="./images/icon_star_selected.png"/>|
 |**`iconUnselected`**|`image`|Set image of unselected icon|`No`|<img src="./images/icon_star_unselected.png"/>|
+|**`onRate`**|`function(rating)`|Trigger when rating changes|`Yes`||
 
 ### Example
 
