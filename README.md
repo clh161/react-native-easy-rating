@@ -1,4 +1,5 @@
 # react-native-easy-rating
+[![npm package](https://img.shields.io/npm/v/react-native-easy-rating.svg?style=flat-square)](https://www.npmjs.org/package/react-native-easy-rating)
 
 > A React Native component for rating view. Compatible with both iOS and Android.
 <p align="center">
