@@ -26,6 +26,7 @@ class Rating extends Component {
         var icons = [];
         for (let i = 1; i <= this.state.max; i++) {
             icons.push(<TouchableWithoutFeedback
+                key={i}
                 style={{height:this.state.iconHeight,width:this.state.iconWidth}}
                 onPress={()=>this._onRate(i)}
             >
