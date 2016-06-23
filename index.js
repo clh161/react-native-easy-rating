@@ -12,7 +12,7 @@ class Rating extends Component {
             iconHeight: this.props.iconHeight ? this.props.iconHeight : 36,
             iconSelected: this.props.iconSelected ? this.props.iconSelected : require('./images/icon_star_selected.png'),
             iconUnselected: this.props.iconUnselected ? this.props.iconUnselected : require('./images/icon_star_unselected.png'),
-            editable: this.props.editable ? this.props.editable : true
+            editable: this.props.editable != null ? this.props.editable : true
         }
     }
 
