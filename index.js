@@ -11,7 +11,8 @@ class Rating extends Component {
             iconWidth: this.props.iconWidth ? this.props.iconWidth : 36,
             iconHeight: this.props.iconHeight ? this.props.iconHeight : 36,
             iconSelected: this.props.iconSelected ? this.props.iconSelected : require('./images/icon_star_selected.png'),
-            iconUnselected: this.props.iconUnselected ? this.props.iconUnselected : require('./images/icon_star_unselected.png')
+            iconUnselected: this.props.iconUnselected ? this.props.iconUnselected : require('./images/icon_star_unselected.png'),
+            editable: this.props.editable ? this.props.editable : true
         }
     }
 
@@ -26,6 +27,7 @@ class Rating extends Component {
         var icons = [];
         for (let i = 1; i <= this.state.max; i++) {
             icons.push(<TouchableWithoutFeedback
+                disabled={!this.state.editable}
                 key={i}
                 style={{height:this.state.iconHeight,width:this.state.iconWidth}}
                 onPress={()=>this._onRate(i)}
