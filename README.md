@@ -28,6 +28,7 @@ npm install react-native-easy-rating --save
 |**`iconSelected`**|`image`|Set image of selected icon|`No`|<img src="./images/icon_star_selected.png"/>|
 |**`iconUnselected`**|`image`|Set image of unselected icon|`No`|<img src="./images/icon_star_unselected.png"/>|
 |**`onRate`**|`function(rating)`|Trigger when rating changes|`Yes`||
+|**`editable`**|`boolean`|Ability to change rating by tap|`No`|`Yes`|
 
 ### Example
 
