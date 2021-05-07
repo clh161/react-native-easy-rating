@@ -8,12 +8,12 @@
   <img src="./assets/demo_image_1.png"/>
 </p>
 
-####Tested with react-native 0.27.1
+####Tested with react-native 0.64.1
 
 ## Installation
 
 ```sh
-npm install react-native-easy-rating --save
+yarn add react-native-easy-rating
 ```
 
 
@@ -29,20 +29,24 @@ npm install react-native-easy-rating --save
 |**`iconHeight`**|`number`|Set height of icon|`No`|`36`|
 |**`iconSelected`**|`image`|Set image of selected icon|`No`|<img src="./images/icon_star_selected.png"/>|
 |**`iconUnselected`**|`image`|Set image of unselected icon|`No`|<img src="./images/icon_star_unselected.png"/>|
-|**`onRate`**|`function(rating)`|Trigger when rating changes|`Yes`||
+|**`onRate`**|`function(rating)`|Trigger when rating changes|`No`||
 |**`editable`**|`boolean`|Ability to change rating by tap|`No`|`Yes`|
 
 ### Example
 
 ```js
-import  Rating from 'react-native-easy-rating'
+import  Rating from 'react-native-easy-rating';
 ...
-<Rating
-    rating={1}
-    max={5}
-    iconWidth={24}
-    iconHeight={24}
-    iconSelected={require('../../img/icon_star_selected.png')}
-    iconUnselected={require('../../img/icon_star_unselected.png')}
-    onRate={(rating) => this.setState({rating: rating})}/>
+export default function App() {
+  const [rating,setRating] = useState();
+
+  return (
+    <Rating
+      rating={rating}
+      max={5}
+      iconWidth={24}
+      iconHeight={24}
+      onRate={setRating}/>
+  );
+}
 ```
