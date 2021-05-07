@@ -4,7 +4,10 @@
   "description": "Easy rating view for react-native",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
+  },
+  "jest": {
+    "preset": "react-native"
   },
   "keywords": [
     "react",
@@ -32,12 +35,20 @@
   },
   "homepage": "https://github.com/clh161/react-native-easy-rating",
   "devDependencies": {
+    "@babel/core": "^7.14.0",
+    "@babel/preset-env": "^7.14.1",
+    "@babel/preset-flow": "^7.13.13",
+    "@babel/preset-react": "^7.13.13",
+    "@babel/preset-typescript": "^7.13.0",
+    "babel-jest": "^26.6.3",
     "eslint": "^7.25.0",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-react": "^7.23.2",
     "eslint-plugin-react-hooks": "^4.2.0",
-    "eslint-plugin-react-native": "^3.10.0"
+    "eslint-plugin-react-native": "^3.10.0",
+    "jest": "^26.6.3",
+    "react-test-renderer": "^17.0.2"
   }
 }
