@@ -36,7 +36,7 @@
   "homepage": "https://github.com/clh161/react-native-easy-rating",
   "peerDependencies": {
     "react": "*",
-    "react-native": "*"
+    "react-native": ">= 0.59.0"
   },
   "devDependencies": {
     "@babel/core": "^7.14.0",
