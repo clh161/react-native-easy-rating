@@ -16,7 +16,7 @@ function Rating(props) {
 
   const icons = useMemo(() => {
     const ics = [];
-    for (let i = 1; i <= max; i++) {
+    for (let i = 1; i <= max; i += 1) {
       ics.push(<TouchableWithoutFeedback
         disabled={!editable}
         key={i}
