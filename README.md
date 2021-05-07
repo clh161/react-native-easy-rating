@@ -8,7 +8,7 @@
   <img src="./assets/demo_image_1.png"/>
 </p>
 
-####Tested with react-native 0.64.1
+#### Tested with react-native 0.64.1
 
 ## Installation
 
