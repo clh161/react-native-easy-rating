@@ -1,6 +1,6 @@
 'use strict';
 import {Image, TouchableWithoutFeedback, View} from "react-native";
-import React, {useState} from "react";
+import React, {useMemo, useState} from "react";
 import defaultIconSelected from './images/icon_star_selected.png'
 import defaultIconUnselected from './images/icon_star_unselected.png'
 
@@ -15,21 +15,25 @@ function Rating(props) {
   const iconSelected = props.iconSelected ?? defaultIconSelected
   const iconUnselected = props.iconUnselected ?? defaultIconUnselected
 
-  const icons = [];
-  for (let i = 1; i <= max; i++) {
-    icons.push(<TouchableWithoutFeedback
-      disabled={!editable}
-      key={i}
-      style={{height: iconHeight, width: iconWidth}}
-      onPress={() => {
-        setInternalRating(i);
-        props.onRate?.(i)
-      }}
-    >
-      <Image style={{height: iconHeight, width: iconWidth}}
-             source={rating >= i ? iconSelected : iconUnselected}/>
-    </TouchableWithoutFeedback>)
-  }
+  const icons = useMemo(() => {
+    const ics = [];
+    for (let i = 1; i <= max; i++) {
+      ics.push(<TouchableWithoutFeedback
+        disabled={!editable}
+        key={i}
+        style={{height: iconHeight, width: iconWidth}}
+        onPress={() => {
+          setInternalRating(i);
+          props.onRate?.(i)
+        }}
+      >
+        <Image style={{height: iconHeight, width: iconWidth}}
+               source={rating >= i ? iconSelected : iconUnselected}/>
+      </TouchableWithoutFeedback>)
+    }
+    return ics;
+  }, [max, props.onRate, iconHeight, iconWidth, editable, iconSelected, iconUnselected, rating]);
+
   return <View style={[props.style, {flexDirection: 'row'}]}>
     {icons}
   </View>
