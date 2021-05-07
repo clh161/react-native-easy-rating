@@ -34,6 +34,10 @@
     "url": "https://github.com/clh161/react-native-easy-rating/issues"
   },
   "homepage": "https://github.com/clh161/react-native-easy-rating",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
   "devDependencies": {
     "@babel/core": "^7.14.0",
     "@babel/preset-env": "^7.14.1",
@@ -49,6 +53,8 @@
     "eslint-plugin-react-hooks": "^4.2.0",
     "eslint-plugin-react-native": "^3.10.0",
     "jest": "^26.6.3",
+    "react": "^17.0.2",
+    "react-native": "^0.64.1",
     "react-test-renderer": "^17.0.2"
   }
 }

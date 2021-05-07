@@ -23,7 +23,7 @@ exports[`Render 1`] = `
     onStartShouldSetResponder={[Function]}
     source={
       Object {
-        "testUri": "../../../libs/react-native-easy-rating/images/icon_star_unselected.png",
+        "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
@@ -45,7 +45,7 @@ exports[`Render 1`] = `
     onStartShouldSetResponder={[Function]}
     source={
       Object {
-        "testUri": "../../../libs/react-native-easy-rating/images/icon_star_unselected.png",
+        "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
@@ -67,7 +67,7 @@ exports[`Render 1`] = `
     onStartShouldSetResponder={[Function]}
     source={
       Object {
-        "testUri": "../../../libs/react-native-easy-rating/images/icon_star_unselected.png",
+        "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
@@ -89,7 +89,7 @@ exports[`Render 1`] = `
     onStartShouldSetResponder={[Function]}
     source={
       Object {
-        "testUri": "../../../libs/react-native-easy-rating/images/icon_star_unselected.png",
+        "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
@@ -111,7 +111,7 @@ exports[`Render 1`] = `
     onStartShouldSetResponder={[Function]}
     source={
       Object {
-        "testUri": "../../../libs/react-native-easy-rating/images/icon_star_unselected.png",
+        "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
@@ -147,7 +147,7 @@ exports[`Render Icon Size 64 1`] = `
     onStartShouldSetResponder={[Function]}
     source={
       Object {
-        "testUri": "../../../libs/react-native-easy-rating/images/icon_star_unselected.png",
+        "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
@@ -169,7 +169,7 @@ exports[`Render Icon Size 64 1`] = `
     onStartShouldSetResponder={[Function]}
     source={
       Object {
-        "testUri": "../../../libs/react-native-easy-rating/images/icon_star_unselected.png",
+        "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
@@ -191,7 +191,7 @@ exports[`Render Icon Size 64 1`] = `
     onStartShouldSetResponder={[Function]}
     source={
       Object {
-        "testUri": "../../../libs/react-native-easy-rating/images/icon_star_unselected.png",
+        "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
@@ -213,7 +213,7 @@ exports[`Render Icon Size 64 1`] = `
     onStartShouldSetResponder={[Function]}
     source={
       Object {
-        "testUri": "../../../libs/react-native-easy-rating/images/icon_star_unselected.png",
+        "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
@@ -235,7 +235,7 @@ exports[`Render Icon Size 64 1`] = `
     onStartShouldSetResponder={[Function]}
     source={
       Object {
-        "testUri": "../../../libs/react-native-easy-rating/images/icon_star_unselected.png",
+        "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
@@ -271,7 +271,7 @@ exports[`Render Max 10 1`] = `
     onStartShouldSetResponder={[Function]}
     source={
       Object {
-        "testUri": "../../../libs/react-native-easy-rating/images/icon_star_unselected.png",
+        "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
@@ -293,7 +293,7 @@ exports[`Render Max 10 1`] = `
     onStartShouldSetResponder={[Function]}
     source={
       Object {
-        "testUri": "../../../libs/react-native-easy-rating/images/icon_star_unselected.png",
+        "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
@@ -315,7 +315,7 @@ exports[`Render Max 10 1`] = `
     onStartShouldSetResponder={[Function]}
     source={
       Object {
-        "testUri": "../../../libs/react-native-easy-rating/images/icon_star_unselected.png",
+        "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
@@ -337,7 +337,7 @@ exports[`Render Max 10 1`] = `
     onStartShouldSetResponder={[Function]}
     source={
       Object {
-        "testUri": "../../../libs/react-native-easy-rating/images/icon_star_unselected.png",
+        "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
@@ -359,7 +359,7 @@ exports[`Render Max 10 1`] = `
     onStartShouldSetResponder={[Function]}
     source={
       Object {
-        "testUri": "../../../libs/react-native-easy-rating/images/icon_star_unselected.png",
+        "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
@@ -381,7 +381,7 @@ exports[`Render Max 10 1`] = `
     onStartShouldSetResponder={[Function]}
     source={
       Object {
-        "testUri": "../../../libs/react-native-easy-rating/images/icon_star_unselected.png",
+        "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
@@ -403,7 +403,7 @@ exports[`Render Max 10 1`] = `
     onStartShouldSetResponder={[Function]}
     source={
       Object {
-        "testUri": "../../../libs/react-native-easy-rating/images/icon_star_unselected.png",
+        "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
@@ -425,7 +425,7 @@ exports[`Render Max 10 1`] = `
     onStartShouldSetResponder={[Function]}
     source={
       Object {
-        "testUri": "../../../libs/react-native-easy-rating/images/icon_star_unselected.png",
+        "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
@@ -447,7 +447,7 @@ exports[`Render Max 10 1`] = `
     onStartShouldSetResponder={[Function]}
     source={
       Object {
-        "testUri": "../../../libs/react-native-easy-rating/images/icon_star_unselected.png",
+        "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
@@ -469,7 +469,7 @@ exports[`Render Max 10 1`] = `
     onStartShouldSetResponder={[Function]}
     source={
       Object {
-        "testUri": "../../../libs/react-native-easy-rating/images/icon_star_unselected.png",
+        "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
@@ -505,7 +505,7 @@ exports[`Render Rating 3 1`] = `
     onStartShouldSetResponder={[Function]}
     source={
       Object {
-        "testUri": "../../../libs/react-native-easy-rating/images/icon_star_selected.png",
+        "testUri": "../../../images/icon_star_selected.png",
       }
     }
     style={
@@ -527,7 +527,7 @@ exports[`Render Rating 3 1`] = `
     onStartShouldSetResponder={[Function]}
     source={
       Object {
-        "testUri": "../../../libs/react-native-easy-rating/images/icon_star_selected.png",
+        "testUri": "../../../images/icon_star_selected.png",
       }
     }
     style={
@@ -549,7 +549,7 @@ exports[`Render Rating 3 1`] = `
     onStartShouldSetResponder={[Function]}
     source={
       Object {
-        "testUri": "../../../libs/react-native-easy-rating/images/icon_star_selected.png",
+        "testUri": "../../../images/icon_star_selected.png",
       }
     }
     style={
@@ -571,7 +571,7 @@ exports[`Render Rating 3 1`] = `
     onStartShouldSetResponder={[Function]}
     source={
       Object {
-        "testUri": "../../../libs/react-native-easy-rating/images/icon_star_unselected.png",
+        "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
@@ -593,7 +593,7 @@ exports[`Render Rating 3 1`] = `
     onStartShouldSetResponder={[Function]}
     source={
       Object {
-        "testUri": "../../../libs/react-native-easy-rating/images/icon_star_unselected.png",
+        "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
