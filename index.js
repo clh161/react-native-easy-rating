@@ -3,7 +3,7 @@ import React, { useMemo, useState } from 'react';
 import defaultIconSelected from './images/icon_star_selected.png';
 import defaultIconUnselected from './images/icon_star_unselected.png';
 
-function Rating(props) {
+const Rating = function (props) {
   const [internalRating, setInternalRating] = useState(props.rating ?? 0);
   const rating = props.rating ?? internalRating;
 
@@ -40,6 +40,6 @@ function Rating(props) {
       {icons}
     </View>
   );
-}
+};
 
 export default Rating;
