@@ -19,7 +19,7 @@ jobs:
             ${{ runner.os }}-build-${{ env.cache-name }}-
             ${{ runner.os }}-build-
             ${{ runner.os }}-
-      - uses: actions/setup-node@v2
+      - uses: actions/setup-node@v3
       - run: yarn install
       - run: yarn eslint .
   test:
@@ -37,6 +37,6 @@ jobs:
             ${{ runner.os }}-build-${{ env.cache-name }}-
             ${{ runner.os }}-build-
             ${{ runner.os }}-
-      - uses: actions/setup-node@v2
+      - uses: actions/setup-node@v3
       - run: yarn install
       - run: yarn test
