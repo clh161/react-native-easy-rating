@@ -54,7 +54,7 @@
     "eslint-plugin-react-native": "4.0.0",
     "jest": "28.1.1",
     "react": "18.1.0",
-    "react-native": "0.64.2",
+    "react-native": "0.69.1",
     "react-test-renderer": "18.1.0"
   }
 }
