@@ -3,9 +3,9 @@
 exports[`Render 1`] = `
 <View
   style={
-    Array [
+    [
       undefined,
-      Object {
+      {
         "flexDirection": "row",
       },
     ]
@@ -13,7 +13,7 @@ exports[`Render 1`] = `
 >
   <Image
     accessibilityState={
-      Object {
+      {
         "disabled": false,
       }
     }
@@ -27,12 +27,12 @@ exports[`Render 1`] = `
     onResponderTerminationRequest={[Function]}
     onStartShouldSetResponder={[Function]}
     source={
-      Object {
+      {
         "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
-      Object {
+      {
         "height": 24,
         "width": 24,
       }
@@ -40,7 +40,7 @@ exports[`Render 1`] = `
   />
   <Image
     accessibilityState={
-      Object {
+      {
         "disabled": false,
       }
     }
@@ -54,12 +54,12 @@ exports[`Render 1`] = `
     onResponderTerminationRequest={[Function]}
     onStartShouldSetResponder={[Function]}
     source={
-      Object {
+      {
         "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
-      Object {
+      {
         "height": 24,
         "width": 24,
       }
@@ -67,7 +67,7 @@ exports[`Render 1`] = `
   />
   <Image
     accessibilityState={
-      Object {
+      {
         "disabled": false,
       }
     }
@@ -81,12 +81,12 @@ exports[`Render 1`] = `
     onResponderTerminationRequest={[Function]}
     onStartShouldSetResponder={[Function]}
     source={
-      Object {
+      {
         "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
-      Object {
+      {
         "height": 24,
         "width": 24,
       }
@@ -94,7 +94,7 @@ exports[`Render 1`] = `
   />
   <Image
     accessibilityState={
-      Object {
+      {
         "disabled": false,
       }
     }
@@ -108,12 +108,12 @@ exports[`Render 1`] = `
     onResponderTerminationRequest={[Function]}
     onStartShouldSetResponder={[Function]}
     source={
-      Object {
+      {
         "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
-      Object {
+      {
         "height": 24,
         "width": 24,
       }
@@ -121,7 +121,7 @@ exports[`Render 1`] = `
   />
   <Image
     accessibilityState={
-      Object {
+      {
         "disabled": false,
       }
     }
@@ -135,12 +135,12 @@ exports[`Render 1`] = `
     onResponderTerminationRequest={[Function]}
     onStartShouldSetResponder={[Function]}
     source={
-      Object {
+      {
         "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
-      Object {
+      {
         "height": 24,
         "width": 24,
       }
@@ -152,9 +152,9 @@ exports[`Render 1`] = `
 exports[`Render Icon Size 64 1`] = `
 <View
   style={
-    Array [
+    [
       undefined,
-      Object {
+      {
         "flexDirection": "row",
       },
     ]
@@ -162,7 +162,7 @@ exports[`Render Icon Size 64 1`] = `
 >
   <Image
     accessibilityState={
-      Object {
+      {
         "disabled": false,
       }
     }
@@ -176,12 +176,12 @@ exports[`Render Icon Size 64 1`] = `
     onResponderTerminationRequest={[Function]}
     onStartShouldSetResponder={[Function]}
     source={
-      Object {
+      {
         "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
-      Object {
+      {
         "height": 64,
         "width": 64,
       }
@@ -189,7 +189,7 @@ exports[`Render Icon Size 64 1`] = `
   />
   <Image
     accessibilityState={
-      Object {
+      {
         "disabled": false,
       }
     }
@@ -203,12 +203,12 @@ exports[`Render Icon Size 64 1`] = `
     onResponderTerminationRequest={[Function]}
     onStartShouldSetResponder={[Function]}
     source={
-      Object {
+      {
         "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
-      Object {
+      {
         "height": 64,
         "width": 64,
       }
@@ -216,7 +216,7 @@ exports[`Render Icon Size 64 1`] = `
   />
   <Image
     accessibilityState={
-      Object {
+      {
         "disabled": false,
       }
     }
@@ -230,12 +230,12 @@ exports[`Render Icon Size 64 1`] = `
     onResponderTerminationRequest={[Function]}
     onStartShouldSetResponder={[Function]}
     source={
-      Object {
+      {
         "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
-      Object {
+      {
         "height": 64,
         "width": 64,
       }
@@ -243,7 +243,7 @@ exports[`Render Icon Size 64 1`] = `
   />
   <Image
     accessibilityState={
-      Object {
+      {
         "disabled": false,
       }
     }
@@ -257,12 +257,12 @@ exports[`Render Icon Size 64 1`] = `
     onResponderTerminationRequest={[Function]}
     onStartShouldSetResponder={[Function]}
     source={
-      Object {
+      {
         "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
-      Object {
+      {
         "height": 64,
         "width": 64,
       }
@@ -270,7 +270,7 @@ exports[`Render Icon Size 64 1`] = `
   />
   <Image
     accessibilityState={
-      Object {
+      {
         "disabled": false,
       }
     }
@@ -284,12 +284,12 @@ exports[`Render Icon Size 64 1`] = `
     onResponderTerminationRequest={[Function]}
     onStartShouldSetResponder={[Function]}
     source={
-      Object {
+      {
         "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
-      Object {
+      {
         "height": 64,
         "width": 64,
       }
@@ -301,9 +301,9 @@ exports[`Render Icon Size 64 1`] = `
 exports[`Render Max 10 1`] = `
 <View
   style={
-    Array [
+    [
       undefined,
-      Object {
+      {
         "flexDirection": "row",
       },
     ]
@@ -311,7 +311,7 @@ exports[`Render Max 10 1`] = `
 >
   <Image
     accessibilityState={
-      Object {
+      {
         "disabled": false,
       }
     }
@@ -325,12 +325,12 @@ exports[`Render Max 10 1`] = `
     onResponderTerminationRequest={[Function]}
     onStartShouldSetResponder={[Function]}
     source={
-      Object {
+      {
         "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
-      Object {
+      {
         "height": 24,
         "width": 24,
       }
@@ -338,7 +338,7 @@ exports[`Render Max 10 1`] = `
   />
   <Image
     accessibilityState={
-      Object {
+      {
         "disabled": false,
       }
     }
@@ -352,12 +352,12 @@ exports[`Render Max 10 1`] = `
     onResponderTerminationRequest={[Function]}
     onStartShouldSetResponder={[Function]}
     source={
-      Object {
+      {
         "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
-      Object {
+      {
         "height": 24,
         "width": 24,
       }
@@ -365,7 +365,7 @@ exports[`Render Max 10 1`] = `
   />
   <Image
     accessibilityState={
-      Object {
+      {
         "disabled": false,
       }
     }
@@ -379,12 +379,12 @@ exports[`Render Max 10 1`] = `
     onResponderTerminationRequest={[Function]}
     onStartShouldSetResponder={[Function]}
     source={
-      Object {
+      {
         "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
-      Object {
+      {
         "height": 24,
         "width": 24,
       }
@@ -392,7 +392,7 @@ exports[`Render Max 10 1`] = `
   />
   <Image
     accessibilityState={
-      Object {
+      {
         "disabled": false,
       }
     }
@@ -406,12 +406,12 @@ exports[`Render Max 10 1`] = `
     onResponderTerminationRequest={[Function]}
     onStartShouldSetResponder={[Function]}
     source={
-      Object {
+      {
         "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
-      Object {
+      {
         "height": 24,
         "width": 24,
       }
@@ -419,7 +419,7 @@ exports[`Render Max 10 1`] = `
   />
   <Image
     accessibilityState={
-      Object {
+      {
         "disabled": false,
       }
     }
@@ -433,12 +433,12 @@ exports[`Render Max 10 1`] = `
     onResponderTerminationRequest={[Function]}
     onStartShouldSetResponder={[Function]}
     source={
-      Object {
+      {
         "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
-      Object {
+      {
         "height": 24,
         "width": 24,
       }
@@ -446,7 +446,7 @@ exports[`Render Max 10 1`] = `
   />
   <Image
     accessibilityState={
-      Object {
+      {
         "disabled": false,
       }
     }
@@ -460,12 +460,12 @@ exports[`Render Max 10 1`] = `
     onResponderTerminationRequest={[Function]}
     onStartShouldSetResponder={[Function]}
     source={
-      Object {
+      {
         "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
-      Object {
+      {
         "height": 24,
         "width": 24,
       }
@@ -473,7 +473,7 @@ exports[`Render Max 10 1`] = `
   />
   <Image
     accessibilityState={
-      Object {
+      {
         "disabled": false,
       }
     }
@@ -487,12 +487,12 @@ exports[`Render Max 10 1`] = `
     onResponderTerminationRequest={[Function]}
     onStartShouldSetResponder={[Function]}
     source={
-      Object {
+      {
         "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
-      Object {
+      {
         "height": 24,
         "width": 24,
       }
@@ -500,7 +500,7 @@ exports[`Render Max 10 1`] = `
   />
   <Image
     accessibilityState={
-      Object {
+      {
         "disabled": false,
       }
     }
@@ -514,12 +514,12 @@ exports[`Render Max 10 1`] = `
     onResponderTerminationRequest={[Function]}
     onStartShouldSetResponder={[Function]}
     source={
-      Object {
+      {
         "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
-      Object {
+      {
         "height": 24,
         "width": 24,
       }
@@ -527,7 +527,7 @@ exports[`Render Max 10 1`] = `
   />
   <Image
     accessibilityState={
-      Object {
+      {
         "disabled": false,
       }
     }
@@ -541,12 +541,12 @@ exports[`Render Max 10 1`] = `
     onResponderTerminationRequest={[Function]}
     onStartShouldSetResponder={[Function]}
     source={
-      Object {
+      {
         "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
-      Object {
+      {
         "height": 24,
         "width": 24,
       }
@@ -554,7 +554,7 @@ exports[`Render Max 10 1`] = `
   />
   <Image
     accessibilityState={
-      Object {
+      {
         "disabled": false,
       }
     }
@@ -568,12 +568,12 @@ exports[`Render Max 10 1`] = `
     onResponderTerminationRequest={[Function]}
     onStartShouldSetResponder={[Function]}
     source={
-      Object {
+      {
         "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
-      Object {
+      {
         "height": 24,
         "width": 24,
       }
@@ -585,9 +585,9 @@ exports[`Render Max 10 1`] = `
 exports[`Render Rating 3 1`] = `
 <View
   style={
-    Array [
+    [
       undefined,
-      Object {
+      {
         "flexDirection": "row",
       },
     ]
@@ -595,7 +595,7 @@ exports[`Render Rating 3 1`] = `
 >
   <Image
     accessibilityState={
-      Object {
+      {
         "disabled": false,
       }
     }
@@ -609,12 +609,12 @@ exports[`Render Rating 3 1`] = `
     onResponderTerminationRequest={[Function]}
     onStartShouldSetResponder={[Function]}
     source={
-      Object {
+      {
         "testUri": "../../../images/icon_star_selected.png",
       }
     }
     style={
-      Object {
+      {
         "height": 24,
         "width": 24,
       }
@@ -622,7 +622,7 @@ exports[`Render Rating 3 1`] = `
   />
   <Image
     accessibilityState={
-      Object {
+      {
         "disabled": false,
       }
     }
@@ -636,12 +636,12 @@ exports[`Render Rating 3 1`] = `
     onResponderTerminationRequest={[Function]}
     onStartShouldSetResponder={[Function]}
     source={
-      Object {
+      {
         "testUri": "../../../images/icon_star_selected.png",
       }
     }
     style={
-      Object {
+      {
         "height": 24,
         "width": 24,
       }
@@ -649,7 +649,7 @@ exports[`Render Rating 3 1`] = `
   />
   <Image
     accessibilityState={
-      Object {
+      {
         "disabled": false,
       }
     }
@@ -663,12 +663,12 @@ exports[`Render Rating 3 1`] = `
     onResponderTerminationRequest={[Function]}
     onStartShouldSetResponder={[Function]}
     source={
-      Object {
+      {
         "testUri": "../../../images/icon_star_selected.png",
       }
     }
     style={
-      Object {
+      {
         "height": 24,
         "width": 24,
       }
@@ -676,7 +676,7 @@ exports[`Render Rating 3 1`] = `
   />
   <Image
     accessibilityState={
-      Object {
+      {
         "disabled": false,
       }
     }
@@ -690,12 +690,12 @@ exports[`Render Rating 3 1`] = `
     onResponderTerminationRequest={[Function]}
     onStartShouldSetResponder={[Function]}
     source={
-      Object {
+      {
         "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
-      Object {
+      {
         "height": 24,
         "width": 24,
       }
@@ -703,7 +703,7 @@ exports[`Render Rating 3 1`] = `
   />
   <Image
     accessibilityState={
-      Object {
+      {
         "disabled": false,
       }
     }
@@ -717,12 +717,12 @@ exports[`Render Rating 3 1`] = `
     onResponderTerminationRequest={[Function]}
     onStartShouldSetResponder={[Function]}
     source={
-      Object {
+      {
         "testUri": "../../../images/icon_star_unselected.png",
       }
     }
     style={
-      Object {
+      {
         "height": 24,
         "width": 24,
       }
