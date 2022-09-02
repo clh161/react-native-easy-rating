@@ -12,6 +12,11 @@ exports[`Render 1`] = `
   }
 >
   <Image
+    accessibilityState={
+      Object {
+        "disabled": false,
+      }
+    }
     accessible={true}
     focusable={true}
     onClick={[Function]}
@@ -34,6 +39,11 @@ exports[`Render 1`] = `
     }
   />
   <Image
+    accessibilityState={
+      Object {
+        "disabled": false,
+      }
+    }
     accessible={true}
     focusable={true}
     onClick={[Function]}
@@ -56,6 +66,11 @@ exports[`Render 1`] = `
     }
   />
   <Image
+    accessibilityState={
+      Object {
+        "disabled": false,
+      }
+    }
     accessible={true}
     focusable={true}
     onClick={[Function]}
@@ -78,6 +93,11 @@ exports[`Render 1`] = `
     }
   />
   <Image
+    accessibilityState={
+      Object {
+        "disabled": false,
+      }
+    }
     accessible={true}
     focusable={true}
     onClick={[Function]}
@@ -100,6 +120,11 @@ exports[`Render 1`] = `
     }
   />
   <Image
+    accessibilityState={
+      Object {
+        "disabled": false,
+      }
+    }
     accessible={true}
     focusable={true}
     onClick={[Function]}
@@ -136,6 +161,11 @@ exports[`Render Icon Size 64 1`] = `
   }
 >
   <Image
+    accessibilityState={
+      Object {
+        "disabled": false,
+      }
+    }
     accessible={true}
     focusable={true}
     onClick={[Function]}
@@ -158,6 +188,11 @@ exports[`Render Icon Size 64 1`] = `
     }
   />
   <Image
+    accessibilityState={
+      Object {
+        "disabled": false,
+      }
+    }
     accessible={true}
     focusable={true}
     onClick={[Function]}
@@ -180,6 +215,11 @@ exports[`Render Icon Size 64 1`] = `
     }
   />
   <Image
+    accessibilityState={
+      Object {
+        "disabled": false,
+      }
+    }
     accessible={true}
     focusable={true}
     onClick={[Function]}
@@ -202,6 +242,11 @@ exports[`Render Icon Size 64 1`] = `
     }
   />
   <Image
+    accessibilityState={
+      Object {
+        "disabled": false,
+      }
+    }
     accessible={true}
     focusable={true}
     onClick={[Function]}
@@ -224,6 +269,11 @@ exports[`Render Icon Size 64 1`] = `
     }
   />
   <Image
+    accessibilityState={
+      Object {
+        "disabled": false,
+      }
+    }
     accessible={true}
     focusable={true}
     onClick={[Function]}
@@ -260,6 +310,11 @@ exports[`Render Max 10 1`] = `
   }
 >
   <Image
+    accessibilityState={
+      Object {
+        "disabled": false,
+      }
+    }
     accessible={true}
     focusable={true}
     onClick={[Function]}
@@ -282,6 +337,11 @@ exports[`Render Max 10 1`] = `
     }
   />
   <Image
+    accessibilityState={
+      Object {
+        "disabled": false,
+      }
+    }
     accessible={true}
     focusable={true}
     onClick={[Function]}
@@ -304,6 +364,11 @@ exports[`Render Max 10 1`] = `
     }
   />
   <Image
+    accessibilityState={
+      Object {
+        "disabled": false,
+      }
+    }
     accessible={true}
     focusable={true}
     onClick={[Function]}
@@ -326,6 +391,11 @@ exports[`Render Max 10 1`] = `
     }
   />
   <Image
+    accessibilityState={
+      Object {
+        "disabled": false,
+      }
+    }
     accessible={true}
     focusable={true}
     onClick={[Function]}
@@ -348,6 +418,11 @@ exports[`Render Max 10 1`] = `
     }
   />
   <Image
+    accessibilityState={
+      Object {
+        "disabled": false,
+      }
+    }
     accessible={true}
     focusable={true}
     onClick={[Function]}
@@ -370,6 +445,11 @@ exports[`Render Max 10 1`] = `
     }
   />
   <Image
+    accessibilityState={
+      Object {
+        "disabled": false,
+      }
+    }
     accessible={true}
     focusable={true}
     onClick={[Function]}
@@ -392,6 +472,11 @@ exports[`Render Max 10 1`] = `
     }
   />
   <Image
+    accessibilityState={
+      Object {
+        "disabled": false,
+      }
+    }
     accessible={true}
     focusable={true}
     onClick={[Function]}
@@ -414,6 +499,11 @@ exports[`Render Max 10 1`] = `
     }
   />
   <Image
+    accessibilityState={
+      Object {
+        "disabled": false,
+      }
+    }
     accessible={true}
     focusable={true}
     onClick={[Function]}
@@ -436,6 +526,11 @@ exports[`Render Max 10 1`] = `
     }
   />
   <Image
+    accessibilityState={
+      Object {
+        "disabled": false,
+      }
+    }
     accessible={true}
     focusable={true}
     onClick={[Function]}
@@ -458,6 +553,11 @@ exports[`Render Max 10 1`] = `
     }
   />
   <Image
+    accessibilityState={
+      Object {
+        "disabled": false,
+      }
+    }
     accessible={true}
     focusable={true}
     onClick={[Function]}
@@ -494,6 +594,11 @@ exports[`Render Rating 3 1`] = `
   }
 >
   <Image
+    accessibilityState={
+      Object {
+        "disabled": false,
+      }
+    }
     accessible={true}
     focusable={true}
     onClick={[Function]}
@@ -516,6 +621,11 @@ exports[`Render Rating 3 1`] = `
     }
   />
   <Image
+    accessibilityState={
+      Object {
+        "disabled": false,
+      }
+    }
     accessible={true}
     focusable={true}
     onClick={[Function]}
@@ -538,6 +648,11 @@ exports[`Render Rating 3 1`] = `
     }
   />
   <Image
+    accessibilityState={
+      Object {
+        "disabled": false,
+      }
+    }
     accessible={true}
     focusable={true}
     onClick={[Function]}
@@ -560,6 +675,11 @@ exports[`Render Rating 3 1`] = `
     }
   />
   <Image
+    accessibilityState={
+      Object {
+        "disabled": false,
+      }
+    }
     accessible={true}
     focusable={true}
     onClick={[Function]}
@@ -582,6 +702,11 @@ exports[`Render Rating 3 1`] = `
     }
   />
   <Image
+    accessibilityState={
+      Object {
+        "disabled": false,
+      }
+    }
     accessible={true}
     focusable={true}
     onClick={[Function]}
